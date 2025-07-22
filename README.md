@@ -18,9 +18,10 @@ I’m a passionate **iOS Engineer** with a strong track record in delivering hig
 | **Herewith Senior Care** | iOS Lead | SwiftUI, MVVM, Firebase, Payroll | [🔗 Link](https://apps.apple.com/us/app/herewith-senior-care-at-home/id1629912951) |
 | **Herewith Pro (Eldercare Jobs)** | iOS Lead | SwiftUI, Chat, Scheduling | [🔗 Link](https://apps.apple.com/us/app/herewith-pro-jobs-in-eldercare/id1629914138) |
 | **Citi Manager** | Sr. iOS Dev | Swift, MVVM, Apple Pay, Wallet | [🔗 Link](https://apps.apple.com/us/app/citimanager/id472285428) |
-| **Agilysys Pay Suite** | Sr. iOS Dev | Swift, Core Bluetooth, EMV, POS | [Pay FP](https://apps.apple.com/gb/app/agilysys-pay-fp/id1539502451) • [GP](https://apps.apple.com/us/app/agilysys-pay-gp/id1548470783) • [Adyen](https://apps.apple.com/in/app/agilysys-pay-adyen/id1571504383) |
+| **Agilysys Pay Suite** | Sr. iOS Dev | SwiftUI, Core Bluetooth, EMV, POS | [Pay FP](https://apps.apple.com/gb/app/agilysys-pay-fp/id1539502451) • [GP](https://apps.apple.com/us/app/agilysys-pay-gp/id1548470783) • [Adyen](https://apps.apple.com/in/app/agilysys-pay-adyen/id1571504383) |
+| **AU SMALL FINANCE BANK LTD** | Sr. iOS Dev | Swift, MVC, Banking UI | [🔗 Link](https://apps.apple.com/in/app/au-0101-banking-app-billpay/id1532869687) |
 | **NLB Mobile (Singapore Library)** | Sr. iOS Dev | Swift, QR Scan, REST APIs | [🔗 Link](https://apps.apple.com/sg/app/nlb-mobile/id1147053983) |
-| **Axis Bank** | Sr. iOS Dev | Objective-C, MVC, Banking UI | [🔗 Link](https://itunes.apple.com/in/app/axis-bank-mobile-banking/id699582556?mt=8) |
+| **Axis Bank** | Sr. iOS Dev | Swift, MVC, Banking UI | [🔗 Link](https://itunes.apple.com/in/app/axis-bank-mobile-banking/id699582556?mt=8) |
 
 ---
 
