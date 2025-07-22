@@ -7,9 +7,9 @@
 
 ## 🧭 About Me
 
-I'm a highly skilled and experienced Senior iOS Developer with over 9+ years of industry experience specializing in mobile app development, particularly within the Apple ecosystem. I'm proficient in Swift, SwiftUI, and Objective-C, and has strong architectural understanding with hands-on expertise in MVC, MVVM, and other industry-standard design patterns.
+I'm a highly skilled and experienced **Senior iOS Developer** with over 9+ years of industry experience specializing in mobile app development, particularly within the Apple ecosystem. I'm proficient in **Swift**, **SwiftUI**, and **Objective-C**, and has strong architectural understanding with hands-on expertise in MVC, MVVM, and other industry-standard design patterns.
 
-I successfully led and contributed to the development of high-impact iOS applications in industries such as healthcare, fintech, payments, and banking, often involving complex requirements such as security, background tasking, payment gateways, and app-to-app communication.
+I successfully led and contributed to the development of high-impact iOS applications in industries such as **healthcare**, **fintech**, **payments**, and **banking**, often involving complex requirements such as security, background tasking, payment gateways, and app-to-app communication.
 
 ---
 
