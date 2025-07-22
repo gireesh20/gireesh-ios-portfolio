@@ -7,7 +7,9 @@
 
 ## 🧭 About Me
 
-I’m a passionate **iOS Engineer** with a strong track record in delivering high-performance, secure, and scalable mobile apps for enterprises and consumers alike. With deep expertise in **Swift**, **SwiftUI**, and **Objective-C**, I’ve architected apps from the ground up and shipped multiple products on the App Store across domains like healthcare, fintech, and banking.
+I'm a highly skilled and experienced Senior iOS Developer with over 9+ years of industry experience specializing in mobile app development, particularly within the Apple ecosystem. I'm proficient in Swift, SwiftUI, and Objective-C, and has strong architectural understanding with hands-on expertise in MVC, MVVM, and other industry-standard design patterns.
+
+I successfully led and contributed to the development of high-impact iOS applications in industries such as healthcare, fintech, payments, and banking, often involving complex requirements such as security, background tasking, payment gateways, and app-to-app communication.
 
 ---
 
