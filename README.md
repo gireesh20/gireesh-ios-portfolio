@@ -77,7 +77,7 @@ Jawaharlal Nehru Technological University, Anantapur (2008–2012)
 
 - 📧 **Email**: boyinagireesh1991@gmail.com  
 - 📱 **Phone**: +91-9363204546  
-- 🌐 [LinkedIn](#) *(Add your actual link)*  
+- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/gireesh-boyina-8b0362a0)*  
 - 💼 H1B Visa Holder (Active until 30-SEP-2025)
 
 ---
